@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @AlyneAntuness
+- 👀 I’m interested in JavaScript, Html, CSS, Python, Apex, SOQL
